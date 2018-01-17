@@ -81,6 +81,25 @@ function syncQuery(sqlQuery, projectId) {
   // [START bigquery_sync_query]
   // Imports the Google Cloud client library
   const BigQuery = require('@google-cloud/bigquery');
+  const google = require('googleapis');
+
+  const key = require('./Backlogger-dc30569f162c.json');
+  const jwtClient = new google.auth.JWT(
+    key.client_email,
+    null,
+    key.private_key,
+    ['https://www.googleapis.com/auth/drive','https://www.googleapis.com/auth/spreadsheets'], // an array of auth scopes
+    null
+  );
+
+jwtClient.authorize(function (err, tokens) {
+  if (err) {
+    console.log(err);
+    return;
+  }
+
+
+  //const key = require('Backlogger-8893bc2f8671.json');
 
   /**
    * TODO(developer): Uncomment the following lines before running the sample.
@@ -90,7 +109,7 @@ function syncQuery(sqlQuery, projectId) {
 
   // Creates a client
   const bigquery = new BigQuery({
-    projectId: projectId,
+    keyFilename: 'Backlogger-dc30569f162c.json',
   });
 
   // Query options list: https://cloud.google.com/bigquery/docs/reference/v2/jobs/query
@@ -112,6 +131,7 @@ function syncQuery(sqlQuery, projectId) {
       console.error('ERROR:', err);
     });
   // [END bigquery_sync_query]
+});
 }
 
 function asyncQuery(sqlQuery, projectId) {

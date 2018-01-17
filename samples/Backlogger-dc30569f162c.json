@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hardy-album-169409",
+  "private_key_id": "dc30569f162cf654c37e317dd8f9c68eefbb6dd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrpVLIiOkDZzAg\nyJw83gW6/i8MM/myPl3Qd/iJF1kWT69UZR3O1E29Cr1FJFIhRAoDgJ7Pp5HtVXt5\n+LxRQp6Hn8+q5agsjHFIrDVM0qxAVKQ08h/Hyct/MsvxkRS/7xX7pi3KnVss2W3O\nGd2TabmAiHHud7VgkkHO+XdaBlqHSLwMXNdNclfaqNzxWEpiS84PZc/UtJH4vnek\nj3UVyZ7L1cn99ip3HpZ+eVk55LJucPmWge2fOZyngyvvshFOXBv6K3sJRSFJUEnm\nvAdMTW+3wtfbwm4QYsIs/UWo1hhh/GGsB0h+vAoJzexAS3oZzPC/VOiDW3+CJVfm\nJhGj+zMjAgMBAAECggEADu5p5MstNJfIUWpUvJ0tuetR+f7B99hL9esp38DGex3L\nC1i8CEmki6iYnlFOozrVF+NKtffZ3zLpgPXQxhLMXFN+OjVL1MUW0DuHfMebK9AR\nLZMZIJAwu7bMxZDRC9eByigP+XJ6EW2or5bj1tl07EOLVSPXZa7lpeKq6gJ5MnC7\nVGsqUO8mtj34b+U75RGmupzN+vbXd2yrUdd/G1lTFsIE+O64ZoHIBF/f1+PmesPI\nLI1I48jC2+onCmwTNb+R21Ay8aAqXPu3M6FG7BCqc0NqW1GDlGhw7t4FFg8ohr1B\nHO3zo14xCWk5asTZNzhwgh7Zaizoydm7mi9hDqgsXQKBgQD+7f+lrfpgra6d0q5K\ncP+VYI/tbAbVW7kkDO0duleS47RJwdzQAnjURHKvOs/Cu/YCCLa4eV9DZPkAuxwk\nHslfSQtuDxkC8oBeAW07zcBd7t9TjN6kcsQw1O6fVCvP5jt6Pim+ghyPg6gZziW+\n3EoOgUJy02Zz4GQgqXf+WDJr/wKBgQDsopkj7lk9C+a1/AHz7daWpNVUCPo9vVi3\nVBaw2jtwgYeQ73WWmc0JFLJEtx2GzFfL5mxjeMFNWeLDa/JfOhohaLnAuugOU/i3\nX27Kh+qCLUbYdc5fEBWUR5ZIDts4uJ82xpgaJtpqQqdxLOWABOsJSt5LgpdSS3Aq\nWnYVouwI3QKBgCPqQdcEoL6YGX6wnM9uBgP0e7J2QqwyZO34SDuk8guGuvKdNk+z\n2XQGRKX9QiHsOydkNOHeb5ZeFlqNAdTw5WvgLZUO2XY51e3og4wmW5CgQ6RQt1kx\ntgQvK4MU56s9g2mgcl8dk4qAgOFJ0rWF8YUDnunwcIGovlJ/raEOqePfAoGAb8Xt\n6Bbxd/BjLZq3oWy6a7W4PlVvPjJt8Up63VZ3tRC55C/3rwc+3gc0nViRTda/scRJ\ndkLXq53FiuE2PtzG8vjwpKSkcAAh/xvIzUmd75dLW3tp22VRjBS0W50I16X9LnZn\n6hJoIMETLlYyoWGxU1ZV4fzxVSHk/Vx1YoruStECgYEApa8rd3d8LbaMnnUnOkZ4\nHAuFzB/2Rox/+vh9ADGyITqM77pbo3KaeSLMvSYF77ho3eYk5B4pnPU0F0DLrqpT\nCkMEzLxBd15SAtRE0ypvbsFMT1jdYAPl50Mwz8aY2xwh0bVuHtNC7UTt9/QGc0TF\n+IT7sSxra8PBSEF+jS5SjOU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "backlogger-service@hardy-album-169409.iam.gserviceaccount.com",
+  "client_id": "113682335843621525195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/backlogger-service%40hardy-album-169409.iam.gserviceaccount.com"
+}
